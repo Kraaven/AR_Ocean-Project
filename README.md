@@ -1,2 +1,12 @@
-# AR_Ocean-Project
- I finished this part of the Learning, so now Unity has tasked me to make an Ocean Based AR app. Time to Do that!
+
+# Ocean Filter
+
+I am doing the AR mobile Pathway on the Unity Learn platform. This is the final project submitted for the Face Filter Section of that Pathway.
+
+
+
+
+## Note
+
+- Uses Face tracking to render a fish around the head.
+- Uses volume to add the depth in the ocean feel
